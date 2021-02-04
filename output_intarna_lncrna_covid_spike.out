@@ -1,0 +1,182 @@
+
+spike_rna
+           760                                           804
+             |                                           |
+5'-AUG...UGAU  U            ACAG         CA    AUU  G     UAUC...UAA-3'
+             UC UCUUCAGGUUGG    CUGGUGCUG  GCUU   AU UGGGU
+             || ++++++++++++    +++++++++  :|||   || ||||:
+             AG AGGAGUCCAACC    GACCACGAC  UGAA   UG ACCCG
+3'-GUU...CAGA  U            GAAA         AC    AC-  G     UCAC...CGA-5'
+             |                                           |
+           863                                           820
+Fendrr
+
+interaction energy = -30.19 kcal/mol
+
+spike_rna
+          2294                          2320
+             |                          |
+5'-AUG...AACC       A     -   AG         AAGA...UAA-3'
+             GUGCUUU ACUGG AAU  CUGUUGAAC
+             +++++++ ||:|| |||  +++++++++
+             CACGAAG UGACC UUA  GACAGUUUG
+3'-CCC...GUAU       -     A   AA         GAUU...AGG-5'
+             |                          |
+          1541                          1515
+Ftx
+
+interaction energy = -16.27 kcal/mol
+
+spike_rna
+            59                                                                                                                                                201
+             |                                                                                                                                                |
+5'-AUG...ACAA   G  -   AAUUA  C  U    A A   AU      ACA G    -  UUAUUA    GACAAAG      GA          UA AUUCA    AGG         UA          -  AA   UA     U   AU   AUAC...UAA-3'
+             CCA AA CUC     CC CC GCAU C CUA  UCUUUC   C UGGU GU      CCCU       UUUUCA  UCCUCAGUUU  C     ACUC   ACUUGUUCU  CCUUUCUUUU CC  UGU  CUUGG UCC  GCU
+             ||| || |||     || || |||| | |||  ||||||   | ||:| ||      ||||       ||||||  ++++++++++  |     ||:|   |++++++++  ++++++++++ ||  |||  ||||: :||  |||
+             GGU UU GAG     GG GG CGUG G GGU  AGAAGG   G ACCA CG      GGGA       AGGGGU  AGGGGUCAAA  G     UGGG   UGGGUAGGG  GGGGAGGGAG GG  ACG  GAGCC AGG  CGG
+3'-AAA...CGAG   G  C   A----  A  U    - -   --      --- G    A  ------    GCCA---      GA          GG GGCAA    GGG         UG          U  G-   AG     -   AU   GCCC...UGA-5'
+             |                                                                                                                                                |
+           140                                                                                                                                                17
+H19
+
+interaction energy = -52.75 kcal/mol
+
+spike_rna
+             2                                                                                                                                                                       149
+             |                                                                                                                                                                       |
+         5'-A       UUUU-      UUA     ACUAGU    A    -  G    AAUCUUACAA  A-     - AA--  A--   ---       ACACUAA      CACA      --    A     -----   ACAAA      AGA--     A-     A A   AACU...UAA-3'
+             UGUUUGU     CUUGUU   UUGCC      CUCU GUCA GU UGUU          CC  GAACU C    UU   CCC   CCUGCAU       UUCUUU    CGUGGU  GUUU UUACC     CUG     GUUUUC     UCCUC  GUUUU C UUC
+             +++++++     |:||||   |||||      |||| |||| || ||:|          ||  ||||| |    ||   |||   +++++++       |||:||    |:|::|  :||| :||||     ||:     |:||||     |||||  ||||| | |||
+             ACAGACA     GGGCAG   AACGG      GAGA CGGU CA ACAA          GG  CUUGA G    AA   GGG   GGACGUA       AAGAGA    GCACCA  CGAA AGUGG     GAC     CGAGAG     AGGAG  CGAGA G GAG
+3'-AAA...GGAG       CUCAC      ---     ------    -    G  A    ----------  CC     C GCGG  CGA   AAC       -------      C---      AG    -     AAGCA   CG---      AAGGG     AC     - A   AUCG...UCC-5'
+             |                                                                                                                                                                       |
+           733                                                                                                                                                                       600
+Hotair
+
+interaction energy = -23.37 kcal/mol
+
+spike_rna
+            73                                                                                                                                                         211
+             |                                                                                                                                                         |
+5'-AUG...AUUA  C     A   A  AAU  UU    A  UGG   UUA  A -   GA AA-      CAGA    C        AU    ----------   AGGA   G      C        U    UGU-   U       AU-   AUACA--     CUGG...UAA-3'
+             CC CCUGC UAC CU   UC  UCAC CG   UGU   UU C CCU  C   AGUUUU    UCCU AGUUUUAC  UCAA          CUC    CUU UUCUUA CUUUCUUU CCAA    UAC UGGUUCC   GCU       UGUCU
+             || ||||| ||| ||   ||  |||| |:   |:|   |: | |||  |   ||:|||    :||| ++++++++  ||||          |||    ||| |:|:|| ++++++++ ||||    ||| +++++++   |||       |:||:
+             GG GGACG AUG GA   AG  AGUG GU   ACG   AG G GGA  G   UUAGGA    AGGA UCGAAGUG  GGUU          GAG    GAA AAGGAU GAAGGAAG GGUU    GUG ACCGAGG   UGA       AUAGA
+3'-AAA...GUUC  C     -   -  ---  U-    -  UUA   UG-  C A   AG ACC      AAA-    -        GU    UAGCAAUCGC   GAAG   G      C        U    UAGC   -       ACC   GAAAAGG     AGUG...CGC-5'
+             |                                                                                                                                                         |
+          2924                                                                                                                                                         2781
+Malat1
+
+interaction energy = -33.64 kcal/mol
+
+spike_rna
+           763                       783
+             |                       |
+5'-AUG...UUCU    C    U----           GCUG...UAA-3'
+             UCUU AGGU     GGACAGCUGGU
+             |||| |:|:     +++++++++++
+             AGAA UCCA     CCUGUCGACCG
+3'-AAA...AUUC    A    UUCUC           ACCA...CGA-5'
+             |                       |
+           350                       326
+Meg3
+
+interaction energy = -17.27 kcal/mol
+
+spike_rna
+          1720                             1749
+             |                             |
+5'-AUG...UACU     U       AU   CA   -       AUUC...UAA-3'
+             GAUGC GUCCGUG  CCA  GAC ACUUGAG
+             |||:| +++++++  |||  ||| +++++++
+             CUACG CAGGCAC  GGU  CUG UGGACUU
+3'-GAU...CCUG     U       --   UG   C       CCUC...GUC-5'
+             |                             |
+           243                             215
+Mhrt
+
+interaction energy = -14.94 kcal/mol
+
+spike_rna
+            65                                                                                                                                                                     213
+             |                                                                                                                                                                     |
+5'-AUG...AGAA   AA   C C C   A    CUAAUUCU   A       UG--    UU   -  GACAAAG     A        ---------    UA     AA----   A                UUCUU     AU--     UU     CAU   A  C        GGGA...UAA-3'
+             CUC  UUA C C UGC UACA        UUC CACGUGG    UUUA  ACC CU       UUUUC GAUCCUCA         GUUU  CAUUC      CUC GGACUUGUUCUUACCU     UUCCA    GUUAC  GGUUC   GCU UA AUGUCUCU
+             |:|  |:| | | ||| ||||        ::| |||||||    ||||  ||| |:       :|||| ++++++++         ||||  |||||      ||| |||+++++++++++++     :||||    |:|||  |||||   ||: :| ++++++++
+             GAG  GAU G G ACG AUGU        AAG GUGUACU    AGGU  UGG GA       GAGAG CUAGGGGU         CAGG  GUGAG      GGG CUUGAGUAGGGGUGGG     GAGGU    CGGUG  UCGAG   CGA AU UACGGAGG
+3'-AAA...UACA   --   A A A   -    --------   -       UGGA    CU   A  AACCUAG     A        CUUUGACCA    UG     AGCGAC   C                UGU--     GGGU     --     U--   -  C        GAGA...GAC-5'
+             |                                                                                                                                                                     |
+          9030                                                                                                                                                                     8883
+Miat
+
+interaction energy = -28.37 kcal/mol
+
+spike_rna
+           168                                 201
+             |                                 |
+5'-AUG...UCUU           -   AUG    U       A    AUAC...UAA-3'
+             ACCUUUCUUUU CCA   UUAC UGGUUCC UGCU
+             +++++++++++ |||   |:|| +++++++ :|||
+             UGGAAAGGAAA GGU   GGUG ACCGAGG GCGG
+3'-CCU...AAUC           C   ---    C       -    ACGA...CAC-5'
+             |                                 |
+           902                                 872
+Nron
+
+interaction energy = -18.93 kcal/mol
+
+spike_rna
+           769                 787
+             |                 |
+5'-AUG...UUCA  UU  A            CAGC...UAA-3'
+             GG  GG CAGCUGGUGCUG
+             ||  |: ++++++++++++
+             CC  CC GUCGACCACGAC
+3'-AAA...CACC  CU  -            UUUC...GUG-5'
+             |                 |
+          1238                 1221
+Sencr
+
+interaction energy = -17.66 kcal/mol
+
+spike_rna
+             6                 24
+             |                 |
+     5'-AUGUU                   CCAC...UAA-3'
+             UGUUUUUCUUGUUUUAUUG
+             +++++++++++++++++++
+             ACAAAAAGAACAAAAUAAC
+3'-GGA...CUCU                   AACC...CGU-5'
+             |                 |
+           248                 230
+lncWDR59_no_0.23
+
+interaction energy = -17.25 kcal/mol
+
+spike_rna
+           859                                 892
+             |                                 |
+5'-AUG...UACA                CACU  AC   -       AAAC...UAA-3'
+             GAUGCUGUAGACUGUG    UG  CCU CUCUCAG
+             ++++++++++++++++    ||  ||| +++++++
+             CUACGACGUUUGACAC    AC  GGA GAGAGUU
+3'-AAA...GACA                AC--  A-   C       CUAA...CAA-5'
+             |                                 |
+           462                                 431
+LINC01505_no_0.23
+
+interaction energy = -22.09 kcal/mol
+
+spike_rna
+          2022                                      2060
+             |                                      |
+5'-AUG...GUUA     CUCA    AA    CC            -    G AGCU...UAA-3'
+             UCAGA    GACU  UUCU  UCGGCGGGCACG UAGU U
+             |||||    ||||  :|||  ++++++++++++ :||: |
+             AGUCU    CUGG  AAGA  AGCCGUCCGUGC AUCA A
+3'-AGU...UAAC     C---    GG    --            G    G CAAC...GAC-5'
+             |                                      |
+           302                                      268
+APOA1-AS
+
+interaction energy = -22.45 kcal/mol
